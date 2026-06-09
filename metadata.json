@@ -1,0 +1,10 @@
+{
+  "name": "Project Alpha Dashboard",
+  "description": "Medical-themed dashboard with daily directives and a Mentor Link chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
